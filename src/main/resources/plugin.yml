@@ -1,0 +1,6 @@
+name: jk_no_whisper
+version: '${project.version}'
+main: jiekie.NoWhisperPlugin
+api-version: '1.20'
+authors: [Jiekie]
+description: 귓속말 금지 플러그인
