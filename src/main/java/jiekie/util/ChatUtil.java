@@ -1,11 +1,10 @@
 package jiekie.util;
 
-import net.md_5.bungee.api.ChatColor;
 import org.bukkit.entity.Player;
 
 public class ChatUtil {
     public static String getWarnPrefix() {
-        return "[ " + ChatColor.YELLOW + "❗" + ChatColor.WHITE + " ] ";
+        return "\uA003 ";
     }
 
     public static void noWhisper(Player player) {
