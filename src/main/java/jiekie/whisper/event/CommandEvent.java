@@ -1,8 +1,8 @@
-package jiekie.event;
+package jiekie.whisper.event;
 
-import jiekie.NoWhisperPlugin;
-import jiekie.util.ChatUtil;
-import jiekie.util.SoundUtil;
+import jiekie.whisper.NoWhisperPlugin;
+import jiekie.whisper.util.ChatUtil;
+import jiekie.whisper.util.SoundUtil;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

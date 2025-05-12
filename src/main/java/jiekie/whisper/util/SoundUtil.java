@@ -1,4 +1,4 @@
-package jiekie.util;
+package jiekie.whisper.util;
 
 import org.bukkit.SoundCategory;
 import org.bukkit.entity.Player;

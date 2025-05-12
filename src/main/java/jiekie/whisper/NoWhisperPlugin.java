@@ -1,6 +1,6 @@
-package jiekie;
+package jiekie.whisper;
 
-import jiekie.event.CommandEvent;
+import jiekie.whisper.event.CommandEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class NoWhisperPlugin extends JavaPlugin {
